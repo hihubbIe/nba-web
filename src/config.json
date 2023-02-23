@@ -1,0 +1,43 @@
+{
+	"title": "Atoms",
+	"grid": {
+		"searchPlaceholder": "Atom name",
+		"columns": [
+			"Atomic number",
+			"Symbol",
+			"Name"
+		]
+	},
+	"editModal": {
+		"title": "",
+		"button1": "",
+		"button2": ""
+	},
+	"deleteModal": {
+		"title": "",
+		"button1": "",
+		"button2": ""
+	},
+	"localDefaultElements": [
+		{ "symbol": "H", "fullname": "Hydrogen", "atomicnumber": "1" },
+		{ "symbol": "He", "fullname": "Helium", "atomicnumber": "2" },
+		{ "symbol": "Li", "fullname": "Lithium", "atomicnumber": "3" },
+		{ "symbol": "Be", "fullname": "Beryllium", "atomicnumber": "4" },
+		{ "symbol": "B", "fullname": "Boron", "atomicnumber": "5" },
+		{ "symbol": "C", "fullname": "Carbon", "atomicnumber": "6" },
+		{ "symbol": "N", "fullname": "Nitrogen", "atomicnumber": "7" },
+		{ "symbol": "O", "fullname": "Oxygen", "atomicnumber": "8" },
+		{ "symbol": "F", "fullname": "Fluorine", "atomicnumber": "9" },
+		{ "symbol": "Ne", "fullname": "Neon", "atomicnumber": "10" },
+		{ "symbol": "Na", "fullname": "Sodium", "atomicnumber": "11" },
+		{ "symbol": "Mg", "fullname": "Magnesium", "atomicnumber": "12" },
+		{ "symbol": "Al", "fullname": "Aluminum", "atomicnumber": "13" },
+		{ "symbol": "Si", "fullname": "Silicon", "atomicnumber": "14" },
+		{ "symbol": "P", "fullname": "Phosphorus", "atomicnumber": "15" },
+		{ "symbol": "S", "fullname": "Sulfur", "atomicnumber": "16" },
+		{ "symbol": "Cl", "fullname": "Chlorine", "atomicnumber": "17" },
+		{ "symbol": "Ar", "fullname": "Argon", "atomicnumber": "18" },
+		{ "symbol": "K", "fullname": "Potassium", "atomicnumber": "19" },
+		{ "symbol": "Ca", "fullname": "Calcium", "atomicnumber": "20" }
+	]
+}
